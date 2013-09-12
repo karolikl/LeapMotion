@@ -23,3 +23,8 @@ When running the demo, you will initially see three textboxes:
 * **Scroll:** You can move your hand up and down over the Leap Motion sensor in order to scroll on the page.
 
 Note: I've added some limitations as to where your hand should be placed when scrolling and swiping (to make sure you don't do both at the same time). Scrolling works best close to the sensor while swiping works best higher up. 
+
+
+## License
+
+MIT © Karoline Klever
