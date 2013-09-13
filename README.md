@@ -1,10 +1,13 @@
-# LeapMotion
+﻿# LeapMotion
 
 ##Self-updating, swipable image gallery using: 
 - [Leap Motion](https://www.leapmotion.com/)
 - [AngularUI for AngularJS](http://angular-ui.github.io/)
 - Web worker for pinging Flickr for new photos every 5 seconds
 - [Flickr API](http://www.flickr.com/services/api/)
+
+###But I don't have a Leap Motion device!
+You can see the demo in action on my [Instagram account](http://instagram.com/p/d3897XTVZu/)
 
 ##Prerequisites: 
 - [Leap Motion software](https://www.leapmotion.com/setup) must be installed and running
